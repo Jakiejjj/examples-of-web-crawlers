@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 #定义一个taobao类
-class taobao_infos:
+class Taobao_infos:
 
     #对象初始化
     def __init__(self):
